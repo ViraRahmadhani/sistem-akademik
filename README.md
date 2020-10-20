@@ -6,7 +6,7 @@ Telah memiliki fitur searching, sorting, dan CRUD
 Cara instalasi:
 1. Clone Repository ini https://github.com/ViraRahmadhani/sistem-akademik
 2. Sesuaikan nama file database (siakad.sql) yang terletak pada folder database, kemudian import file.sql kedalam folder localhost anda.
-3. Jalankan dengan membuka url : http://localhost/sistem-akademik/
+3. Jalankan dengan membuka url : http://localhost/sistem-akademik-main/
 
 Username : 1717 Password : 12345
 
