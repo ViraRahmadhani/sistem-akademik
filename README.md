@@ -22,6 +22,6 @@ Username : 1717 Password : 12345
 -Fitur Sorting
 ![fiturSort](https://user-images.githubusercontent.com/73127851/96531645-52f2f700-12b4-11eb-9a0b-fd7bd19c8116.PNG)
 
-# Nama  : VIra Rahmadhani
+# Nama  : Vira Rahmadhani
 # NIM   : 1705112049
 # Kelas : CE-6A
