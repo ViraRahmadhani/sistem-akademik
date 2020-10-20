@@ -1,4 +1,4 @@
-# Sistem Akademik
+# Sistem Akademik (LSP)
 
 Web Sistem Akadimik dibagun dengan menggunakan PHP Native
 Telah memiliki fitur searching, sorting, dan CRUD
@@ -22,4 +22,6 @@ Username : admin Password : admin
 -Fitur Sorting
 ![fiturSort](https://user-images.githubusercontent.com/73127851/96531645-52f2f700-12b4-11eb-9a0b-fd7bd19c8116.PNG)
 
-
+# Nama  : VIra Rahmadhani
+# NIM   : 1705112049
+# Kelas : CE-6A
